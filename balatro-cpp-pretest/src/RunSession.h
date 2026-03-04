@@ -16,5 +16,15 @@ private :
 
   std::vector<IModifier*> ownedModifiers;
 
-  
+  std::vector<std::string> drawHand(int size = 5) const;
+
+  void runShop();
+
+  void displayHand(const std::vector<std::string>& hand) const;
+
+public:
+  RunSession(int rounds = 3);
+  ~RunSession();
+
+  void staart();
 }
