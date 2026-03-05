@@ -26,5 +26,5 @@ public:
   RunSession(int rounds = 3);
   ~RunSession();
 
-  void staart();
+  void start();
 }
