@@ -1,0 +1,85 @@
+========================================
+|        CARD-RUN GAME  v1.0           |
+========================================
+  Rounds to play: 3
+
+----------------------------------------
+|  ROUND 1 / 3                         |
+----------------------------------------
+  Hand: 10D  QD  6C  5D  10H
+  [Press Enter to score hand]
+
+
+  --- Score Breakdown ---
+  Scoring rule  : Standard (10 pts/card)
+  Base score    : 50
+  Final score   : 50
+
+  Round score   : 50
+  Total score   : 50
+
+  +--------------------------+
+  |        SHOP              |
+  | Gold:  100                 |
+  +--------------------------+
+  | [1] double  ù x2 score   | 30g
+  | [2] flat    ù +50 score  | 20g
+  | [3] square  ù ^2 score   | 50g
+  | [0] skip shop            |
+  +--------------------------+
+  Your choice: 1
+  Purchased: DoubleBoost (x2) (cost 30g, remaining: 70g)
+
+----------------------------------------
+|  ROUND 2 / 3                         |
+----------------------------------------
+  Hand: AH  KC  6D  2C  8D
+  [Press Enter to score hand]
+
+  --- Score Breakdown ---
+  Scoring rule  : Standard (10 pts/card)
+  Base score    : 50
+  [DoubleBoost (x2)    ] 50 -> 100
+  Final score   : 100
+
+  Round score   : 100
+  Total score   : 150
+
+  +--------------------------+
+  |        SHOP              |
+  | Gold: 70                   |
+  +--------------------------+
+  | [1] double  ù x2 score   | 30g
+  | [2] flat    ù +50 score  | 20g
+  | [3] square  ù ^2 score   | 50g
+  | [0] skip shop            |
+  +--------------------------+
+  Your choice: 3
+  Purchased: SquareBoost (^2) (cost 50g, remaining: 20g)
+
+----------------------------------------
+|  ROUND 3 / 3                         |
+----------------------------------------
+  Hand: 5C  8S  JC  4H  9D
+  [Press Enter to score hand]
+
+  --- Score Breakdown ---
+  Scoring rule  : Standard (10 pts/card)
+  Base score    : 50
+  [DoubleBoost (x2)    ] 50 -> 100
+  [SquareBoost (^2)    ] 100 -> 10000
+  Final score   : 10000
+
+  Round score   : 10000
+  Total score   : 10150
+
+========================================
+|              RUN COMPLETE            |
+========================================
+|  Final Score : 10150                        |
+========================================
+
+  Modifiers collected:
+    ò DoubleBoost (x2)
+    ò SquareBoost (^2)
+
